@@ -1,0 +1,4 @@
+name: BLAZE_LOCATE
+version: @version@
+main: com.github.chaosindustry.blaze_locate.BLAZE_LOCATE
+api-version: 1.15
